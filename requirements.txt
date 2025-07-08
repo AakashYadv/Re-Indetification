@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+deep_sort_realtime
+fastapi
+uvicorn
+opencv-python
+ultralytics
+torch
+torchvision
+strong_sort
+python-multipart
