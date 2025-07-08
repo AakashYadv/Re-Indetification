@@ -27,7 +27,3 @@ The input video must be named `15sec_input_720p.mp4` and placed in the root fold
 The output will be saved as `output_tracking.mp4`.
 
 ---
-
-## 📦 Deployment on Render
-
-You can deploy this system using `render.yaml`. Use `app.py` for FastAPI interface.
